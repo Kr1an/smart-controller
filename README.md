@@ -1,1 +1,1 @@
-### Controller
+### Smart Controller
